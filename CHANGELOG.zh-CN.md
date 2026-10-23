@@ -68,4 +68,4 @@
 
 更早的版本为内测早期构建，没有对外发布记录。
 
-有问题或建议：开一个 [Issue](https://github.com/damesck233/klplauncher-TauriDesktop/issues/new/choose)，或写信到 admin@klp-launcher.com。
+有问题或建议：开一个 [Issue](https://github.com/klpbbs-dev/klplauncher-issue/issues/new/choose)，或写信到 admin@klp-launcher.com。

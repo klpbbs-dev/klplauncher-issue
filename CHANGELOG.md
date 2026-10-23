@@ -68,4 +68,4 @@ User-facing release notes. Dates are release dates. 中文版：[CHANGELOG.zh-CN
 
 Earlier versions were early closed-beta builds with no public release record.
 
-Questions or suggestions: open an [issue](https://github.com/damesck233/klplauncher-TauriDesktop/issues/new/choose) or write to admin@klp-launcher.com.
+Questions or suggestions: open an [issue](https://github.com/klpbbs-dev/klplauncher-issue/issues/new/choose) or write to admin@klp-launcher.com.

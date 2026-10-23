@@ -17,11 +17,6 @@ Free · No ads · Nothing bundled · In closed beta
 > changelog, legal terms and issue tracker. The launcher itself is copyright of the KLP team,
 > all rights reserved — see [LICENSE](LICENSE).
 
-> [!NOTE]
-> **The launcher is applying for Minecraft API access from Mojang. Until that is approved,
-> no download is offered.** It will be published on the [website](https://klp-launcher.com/en/)
-> as soon as it goes through. To ask about progress, write to admin@klp-launcher.com.
-
 ## What this is
 
 KLP Launcher is a desktop program that runs on your own computer. Managing instances, downloading game files and launching the game all happen locally and never pass through our servers.
@@ -84,7 +79,7 @@ The policy also states two known costs of the current implementation rather than
 
 ## Reporting problems
 
-- **Bugs and feature requests**: open an [issue](https://github.com/damesck233/klplauncher-TauriDesktop/issues/new/choose).
+- **Bugs and feature requests**: open an [issue](https://github.com/klpbbs-dev/klplauncher-issue/issues/new/choose).
 - **Anything else** (install failures, crashes, privacy, terms): write to admin@klp-launcher.com.
 
 The project is in closed beta and every message gets read.

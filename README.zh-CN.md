@@ -16,10 +16,6 @@
 > **本仓库不包含源代码。** 这里只放面向用户的文档、更新记录、法务条款和问题反馈入口。
 > 启动器本体的版权归苦力怕团队所有，保留一切权利，详见 [LICENSE.zh-CN](LICENSE.zh-CN)。
 
-> [!NOTE]
-> **启动器正在向 Mojang 申请 Minecraft API 权限，在通过之前不提供公开下载。**
-> 通过之后会第一时间在[官网](https://klp-launcher.com/)放出。想知道进展，写信到 admin@klp-launcher.com。
-
 ## 这是什么
 
 苦力怕启动器是一个装在你自己电脑上的桌面程序。管理实例、下载游戏文件、启动游戏这些事全部发生在本机，不经过我们的服务器。
@@ -82,7 +78,7 @@
 
 ## 反馈问题
 
-- **报 Bug / 提需求**：开一个 [Issue](https://github.com/damesck233/klplauncher-TauriDesktop/issues/new/choose)
+- **报 Bug / 提需求**：开一个 [Issue](https://github.com/klpbbs-dev/klplauncher-issue/issues/new/choose)
 - **其它**（装不上、启动崩、隐私相关、条款问题）：写信到 admin@klp-launcher.com
 
 目前处于内测阶段，每一封都会有人看。
